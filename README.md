@@ -15,4 +15,4 @@ By using Terraform, we were able to automate the deployment of Python code to an
 11.Verify the Lambda Function From AWS Console
 12.Clean Up-Using terraform destroy
 ``` 
-
+Refer https://sunitabachhav2007.hashnode.dev/create-and-deploy-aws-lambda-with-terraform for more details
